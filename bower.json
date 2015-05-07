@@ -1,0 +1,19 @@
+{
+  "name": "crubrand-web-template",
+  "version": "0.0.0",
+  "homepage": "https://github.com/CruGlobal/crubrand-web-template",
+  "authors": [
+    "James Dempsey <thejamesdempsey@gmail.com>"
+  ],
+  "description": "Web template for housing the crubrand framework",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crubrand": "~1.0.0"
+  }
+}
